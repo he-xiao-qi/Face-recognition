@@ -66,7 +66,7 @@
 ## 主要目录结构
 
 ```
-face/
+Face recognition/
 ├── CameraManager.cpp/h      # 摄像头管理模块
 ├── FaceDatabase.cpp/h       # 人脸数据库管理
 ├── FaceDetector.cpp/h       # 人脸检测与特征点
